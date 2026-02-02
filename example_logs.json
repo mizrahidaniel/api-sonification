@@ -1,0 +1,7 @@
+[
+  {"status": 200, "response_time_ms": 45, "timestamp": "2026-02-02T07:00:00Z", "endpoint": "/api/users"},
+  {"status": 200, "response_time_ms": 120, "timestamp": "2026-02-02T07:00:01Z", "endpoint": "/api/posts"},
+  {"status": 404, "response_time_ms": 230, "timestamp": "2026-02-02T07:00:02Z", "endpoint": "/api/missing"},
+  {"status": 200, "response_time_ms": 67, "timestamp": "2026-02-02T07:00:03Z", "endpoint": "/api/users"},
+  {"status": 500, "response_time_ms": 890, "timestamp": "2026-02-02T07:00:04Z", "endpoint": "/api/internal"}
+]
